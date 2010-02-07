@@ -1,1 +1,1 @@
-![Screenshot](http://grab.by/2fsF)
+![Screenshot](http://grab.by/2ftj)
