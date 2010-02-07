@@ -1,1 +1,1 @@
-![Screenshot](/screenshots/screenshot1.png)
+![Screenshot](http://grab.by/2fsF)
