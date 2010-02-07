@@ -1,0 +1,16 @@
+{
+  "name": "ReleaseLog List Mode",
+  "version": "1.0",
+  "description": "compresses release log entries down to titles only.",
+  "permissions": [
+    "http://www.rlslog.net/"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["http://www.rlslog.net/", "http://www.rlslog.net/category/*/"],
+      "css": ["rlslog_reader.css"],
+      "js": ["jquery.js", "rlslog_reader.js"]
+    }
+  ],
+  "run_at" : "document_start"
+}
